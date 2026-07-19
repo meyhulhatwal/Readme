@@ -16,7 +16,7 @@ Passionate about Artificial Intelligence, Deep Learning, NLP, and building impac
 # 💫 About Me
 
 🎓 B.Tech in Artificial Intelligence & Machine Learning at  
-**Vellore Institute of Technology, Bhopal** (CGPA: 8.44)
+**Vellore Institute of Technology, Bhopal** (CGPA: 8.07)
 
 💡 I enjoy solving real-world problems using:
 - Machine Learning
